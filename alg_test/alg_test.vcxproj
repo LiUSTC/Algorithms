@@ -11,6 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="alg.h" />
+    <ClInclude Include="myheap.h" />
     <ClInclude Include="mysort.h" />
   </ItemGroup>
   <ItemGroup>

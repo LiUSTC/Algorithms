@@ -23,5 +23,11 @@
     <ClInclude Include="mysort.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="myheap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="alg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
